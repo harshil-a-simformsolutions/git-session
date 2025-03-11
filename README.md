@@ -6,5 +6,3 @@ commit dev-1
 
 dev-2
 
-Dev commit 1
-
